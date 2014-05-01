@@ -29,3 +29,19 @@ Event Teams
 
 Examples:
 `frc1114,frc1311,frc1477,frc1538,frc1625,frc1640,frc1671,frc1678,frc1912,frc1923,frc2177,frc2363,frc2471,frc2481,frc2486,frc254,frc2590,frc27,frc2848,frc3467,frc3504,frc4201,frc469,frc5136,frc5212,frc67,frc74,frc932,frc973`
+
+Event Alliances
+---------------
+```
+<1-captain>, <pick1>, <pick2>, ...
+<2-captain>, <pick1>, <pick2>, ...
+...
+```
+
+Event Rankings
+--------------
+```
+Rank, Team, <stat1>, <stat2>, ...
+<rank>, <team>, <stat1>, <stat2> ...
+...
+```
