@@ -1,2 +1,4 @@
-rm -r tba-data-backup
-gsutil -m cp -R gs://tbatv-prod-hrd.appspot.com/tba-data-backup .
+rm -r events
+rm -r teams
+gsutil -m cp -R gs://tbatv-prod-hrd.appspot.com/tba-data-backup/events .
+gsutil -m cp -R gs://tbatv-prod-hrd.appspot.com/tba-data-backup/teams .
